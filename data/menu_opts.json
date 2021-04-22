@@ -1,0 +1,17 @@
+{
+    "nombreApp": "Diseños",
+    "rutas":[
+        {
+            "ruta": "basico",
+            "texto": "Diseño básico"
+        },
+        {
+            "ruta": "scroll",
+            "texto": "Diseño medio"
+        },
+        {
+            "ruta": "botones",
+            "texto": "Diseño Avanzado"
+        }
+    ]
+}
